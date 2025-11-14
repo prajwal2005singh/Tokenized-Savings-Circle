@@ -1,0 +1,12 @@
+# Compiled Soroban WASM artifacts
+target/
+.cargo/
+
+# Node.js dependencies
+node_modules/
+frontend/dist/
+frontend/build/
+.env
+
+# VSCode config files
+.vscode/
